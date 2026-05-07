@@ -1,3 +1,5 @@
+# MODIFICAÇÃO 1
+
 # Guia de IA e Aplicações Práticas para Negócios - DIO
 
 ## Desafio DIO: Caderno Temático de IA no NotebookLM - guia-ia-negocios-multissetorial
